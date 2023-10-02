@@ -9,7 +9,7 @@ struct Vector
     float z;
 };
 
-class CPlayerAnimState
+class __fastcall CPlayerAnimState
 {
 public:
     int vtable;
